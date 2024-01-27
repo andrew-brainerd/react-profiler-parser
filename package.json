@@ -1,0 +1,24 @@
+{
+  "name": "react-profiler-parser",
+  "version": "0.0.1",
+  "description": "React Profiler Parsing Tool",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-brainerd/react-profiler-parser.git"
+  },
+  "keywords": [
+    "react",
+    "profiler",
+    "parser"
+  ],
+  "author": "Andrew Brainerd <andrew@brainerd.devL>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrew-brainerd/react-profiler-parser/issues"
+  },
+  "homepage": "https://github.com/andrew-brainerd/react-profiler-parser#readme"
+}
